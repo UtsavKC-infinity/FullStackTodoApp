@@ -7,5 +7,3 @@ It has the following features-
 - Anyone user can see their existing tods
 - Anyone user can make a todo as done
 
-// initialize a node project
-// put a package.json
